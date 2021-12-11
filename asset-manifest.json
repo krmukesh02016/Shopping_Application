@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Shopping_Application/static/css/main.ec63d332.chunk.css",
+    "main.js": "/Shopping_Application/static/js/main.565ebe32.chunk.js",
+    "main.js.map": "/Shopping_Application/static/js/main.565ebe32.chunk.js.map",
+    "runtime-main.js": "/Shopping_Application/static/js/runtime-main.efb56bb5.js",
+    "runtime-main.js.map": "/Shopping_Application/static/js/runtime-main.efb56bb5.js.map",
+    "static/css/2.961261fe.chunk.css": "/Shopping_Application/static/css/2.961261fe.chunk.css",
+    "static/js/2.47c93a3c.chunk.js": "/Shopping_Application/static/js/2.47c93a3c.chunk.js",
+    "static/js/2.47c93a3c.chunk.js.map": "/Shopping_Application/static/js/2.47c93a3c.chunk.js.map",
+    "static/js/3.10a2d991.chunk.js": "/Shopping_Application/static/js/3.10a2d991.chunk.js",
+    "static/js/3.10a2d991.chunk.js.map": "/Shopping_Application/static/js/3.10a2d991.chunk.js.map",
+    "index.html": "/Shopping_Application/index.html",
+    "static/css/2.961261fe.chunk.css.map": "/Shopping_Application/static/css/2.961261fe.chunk.css.map",
+    "static/css/main.ec63d332.chunk.css.map": "/Shopping_Application/static/css/main.ec63d332.chunk.css.map",
+    "static/js/2.47c93a3c.chunk.js.LICENSE.txt": "/Shopping_Application/static/js/2.47c93a3c.chunk.js.LICENSE.txt",
+    "static/media/bootstrap.min.css": "/Shopping_Application/static/media/glyphicons-halflings-regular.be810be3.woff2"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.efb56bb5.js",
+    "static/css/2.961261fe.chunk.css",
+    "static/js/2.47c93a3c.chunk.js",
+    "static/css/main.ec63d332.chunk.css",
+    "static/js/main.565ebe32.chunk.js"
+  ]
+}
